@@ -1,16 +1,8 @@
 # Sistema de Gestión de Tickets
 
-<<<<<<< HEAD
-Universidad CENFOTEC. <br>
-SOFT-10 Estructuras de Datos. <br>
-C3-2026.  <br>
-Docente: Romario Salas Cerdas. <br>
-Estudiante: Ian Aarón Mora Espinoza. 
-=======
 Universidad CENFOTEC · SOFT-10 Estructuras de Datos · C3-2026 <br>
 Docente: Romario Salas Cerdas <br>
 Estudiante: Ian Aarón Mora Espinoza
->>>>>>> d5779c0 (Actualización de README)
 
 ## Descripción
 
