@@ -1,0 +1,13 @@
+# Archivos compilados
+*.class
+out/
+bin/
+
+# IntelliJ (archivos personales del usuario)
+.idea/workspace.xml
+.idea/shelf/
+.idea/usage.statistics.xml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
